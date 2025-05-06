@@ -187,3 +187,7 @@ if (statuscode === 200) {
 ---
 
 ### 📊 Newman Report Sample  
+![Report](https://drive.google.com/uc?id=1iutgxB_MsLMbqWoRlxtcM6u6ojC1Xobl)
+![Summary](https://drive.google.com/uc?id=1mcdyntypMbDMT-RGg2G1x_eX8vrlewkm)
+![Test](https://drive.google.com/uc?id=1RVXw2YzAFIsqZThRalq_uhLfW5skyTLk)
+![Details](https://drive.google.com/uc?id=1t5-LB04wyCg5gcgxggOCihFFSDCWShDX)
